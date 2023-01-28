@@ -9,3 +9,5 @@ SInce the data set is over 300 MB, i uploaded it on my google drive, the link is
 https://drive.google.com/file/d/1lbsif0eGPh9CeaNy9Sr_Qe3XKlC5OzIh/view?usp=sharing
 
 You could open it with the link.
+
+After download it, please save it under data folder.
