@@ -28,6 +28,9 @@ If R cannot open the file, please go to README.md under data folder, and
 download philosophy_data.csv from the link. This happens because the csv file
 is over 300 MB.
 
+After download it from google drive, please save it under data folder, since 
+i used the path to load data.
+
 Load Data
 ```{r}
 pdata= read.csv(file="../data/philosophy_data.csv",header=TRUE)
