@@ -9,20 +9,20 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Philisophy Data Story
++ This project is conducted by Yunfan Liu
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary:
+This project is about exploring and visualizing the philosophy data, which contains over 300000 philosophers' maxims and the period they said.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+This project explores the philosophy data set in five ways.
 
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
+How many philosophers are in the data set, and which philosopher has said the most maxims in his life time?
+How many schools of philosophy are in the data set, and which school has the most supporters?
+The order of development of philosophical schools in history
+What is the most common topic discussed by all philosophers?
+What is the most frequently discussed topic corresponding to each school?
+The ways of data visualisation are: bar graph, pie chart, time line and word clouds。
 ```
 
 Please see each subfolder for a README file.
